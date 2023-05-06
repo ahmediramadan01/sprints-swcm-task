@@ -1,2 +1,2 @@
 This file is created for Sprints SWCM Task
-This sentence is written for featureX branch
+This new sentence is written for featureY branch
